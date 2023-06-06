@@ -84,20 +84,6 @@ python3 start.py tools
   * 🌠 TOOLS | Console Tools
   * 👑 HELP | Show Usage Script
 
-
-<h1 align="center">
-Our social's💻
-</h2> 
-
-<div align="center">
-   <img src="https://icon-library.com/images/github-icon-vector/github-icon-vector-27.jpg" width="96" height="96" alt="github" />
-   <img src="https://brandlogos.net/wp-content/uploads/2021/11/discord-logo.png"  width="96" height="96" alt="discord" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="96" height="96" alt="telegram" />
-</div>
-
- * [Matrix Team Telegram group](https://t.me/DD0SChat)
- * [Matrix community Telegram channel](https://t.me/MatrixORG)
- * [GitHub](https://github.com/MatrixTM)
 ### If u Like the project, leave a star on the repository!
 
 ## Downloads
@@ -151,14 +137,4 @@ apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pi
 
 [python3]: https://python.org 'Python3'
 [github issues]: https://github.com/MatrixTM/MHDDoS/issues 'enter'
-
----
-
-**💰 Donation Links:**
-#### Donate Links
-
-<b>BTC</b>: <code>bc1q7dhut0fp3sqmz95kth0munte6exzlrne23jtjh</code></br>
-<b>ETH</b>: <code>0xff2fAF77705de1b842fCbA29c95E5C9e7dc266Dc</code></br>
-<b>USDT TRC20</b>: <code>TNeZtxhaYYseJoUS2LWmao6cDbYciprhKz</code></br></br>
-<b>Toman</b>: https://idpay.ir/mh-prodev</br>
 
